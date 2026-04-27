@@ -1,0 +1,16 @@
+:root{
+    --mainHead: red;
+    --mainHeadBackground: blue;
+    
+}
+
+h1{
+    color: var(--mainHead);
+    background: var(--mainHeadBackgrouund);
+}
+
+h2{
+
+   color: var(--mainHead);
+   background-color: var(--mainHeadBackground) 
+}
